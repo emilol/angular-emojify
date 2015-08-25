@@ -1,0 +1,21 @@
+{
+  "name": "angular-emojify",
+  "version": "0.0.0",
+  "authors": [
+    "Emily Poole <emily@devrust.com>"
+  ],
+  "description": "AngularJS directives for emojify.js",
+  "main": "angular-emojify.js",
+  "license": "MIT",
+  "homepage": "https://github.com/emilol/angular-emojify",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "emojify.js": "emojify#~1.1.0"
+  }
+}
